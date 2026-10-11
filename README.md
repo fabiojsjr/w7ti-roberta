@@ -4,7 +4,7 @@ Landing page estática e responsiva de pré-lançamento para **Roberta Attorre**
 
 ## Endereços
 
-- Site principal: `https://robertaattore.com/`
+- Site principal: `https://robertaattorre.com/`
 - Subdomínio do portfólio: `https://roberta.w7ti.com/`
 
 ## Execução local
